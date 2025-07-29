@@ -78,7 +78,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RahulJayakody02&repo=your-awesome-project&theme=tokyonight&hide_border=true)](https://github.com/RahulJayakody02/CLOZ)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RahulJayakody02&repo=your-awesome-project&theme=tokyonight&hide_border=true)](https://github.com/RahulJayakody02/CLOZ.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RahulJayakody02&repo=another-cool-project&theme=tokyonight&hide_border=true)](https://github.com/RahulJayakody02/another-cool-project)
 
 </div>
