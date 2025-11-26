@@ -8,11 +8,10 @@
 
 I'm a passionate developer who loves creating innovative solutions and exploring new technologies. My journey in programming is driven by curiosity and the desire to build meaningful applications that make a difference.
 
-- 🔭 I'm currently working on **exciting full-stack projects**
 - 🌱 I'm currently learning **advanced cloud technologies and AI/ML**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, programming, or any tech-related stuff**
-- 📫 How to reach me: **[your-email@example.com]**
+- 📫 How to reach me: **[rahuljayakody07@gmail.com]**
 - ⚡ Fun fact: **I debug with coffee and deploy with confidence!**
 
 ## 🛠️ Tech Stack
