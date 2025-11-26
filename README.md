@@ -6,13 +6,17 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves creating innovative solutions and exploring new technologies. My journey in programming is driven by curiosity and the desire to build meaningful applications that make a difference.
+I'm a passionate Data Science undergraduate who loves turning data into impactful insights and building intelligent solutions. My journey in tech is driven by curiosity and the excitement of solving real-world problems with data.
 
-- 🌱 I'm currently learning **advanced cloud technologies and AI/ML**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **web development, programming, or any tech-related stuff**
-- 📫 How to reach me: **[rahuljayakody07@gmail.com]**
-- ⚡ Fun fact: **I debug with coffee and deploy with confidence!**
+🌱 I'm currently learning machine learning, deep learning, and data engineering tools
+
+👯 I'm looking to collaborate on data-driven and AI-related projects
+
+💬 Ask me about Python, ML models, data analysis, visualization, or AI workflows
+
+📫 How to reach me: rahuljayakody07@gmail.com
+
+⚡ Fun fact: I wrangle data with patience and deploy models with confidence!
 
 ## 🛠️ Tech Stack
 
@@ -31,7 +35,6 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Databases
@@ -42,7 +45,6 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -84,19 +86,22 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 ## 🌟 What I'm Up To
 
-- 🔨 Building innovative web applications with modern technologies
-- 📚 Contributing to open-source projects
-- 🎯 Learning cloud computing and DevOps practices
-- 🤝 Collaborating with fellow developers on exciting projects
-- 📝 Writing technical blogs and sharing knowledge
+🔍 Exploring machine learning, deep learning, and data analysis
 
+📊 Working on data-driven projects and building intelligent solutions
+
+📚 Contributing to open-source data and AI projects
+
+🎯 Learning MLOps, cloud computing, and model deployment
+
+🤝 Collaborating with fellow developers and data enthusiasts
+
+📝 Writing tech and data science blogs to share knowledge
 ## 📫 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-jayakody)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
